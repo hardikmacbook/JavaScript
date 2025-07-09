@@ -15,14 +15,14 @@
 // var a = 30; // agar aap isse view karonge to ye windos ke ander hogaaa
 
 // function scopes 
-function demo() {
+// function demo() {
     // var a = 30; // aab is vari ko iss function ke andar kahi bhi use kar sakte ho!!
 
-    // var tab problem karta hai jab hame usse if else me use kare like----
+  // var tab problem karta hai jab hame usse if else me use kare like----
 
-    if (true) {
-        var a = 30; // dusri pro. language me kya hota hai ki aab hame iss var ko shirf if ke ander hi use kar sakte hai lekin JavaScript me ham abhi abhi pure function me use kar sakte hai that's resone ye baad me erro deta hai 
-    }
-}
+//   if (true) {
+//         var a = 30; // dusri pro. language me kya hota hai ki aab hame iss var ko shirf if ke ander hi use kar sakte hai lekin JavaScript me ham abhi abhi pure function me use kar sakte hai that's resone ye baad me erro deta hai 
+//     }
+// }
 
 // redeclare kar sakte ho 
