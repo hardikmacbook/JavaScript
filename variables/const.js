@@ -2,6 +2,8 @@
 
 // const Discount = 10; // kabhi value change hi nahi kar sakte
 
+// value update kar sakte ho lekin reassign nahi kar sakte
+
 
 
 // more example 
