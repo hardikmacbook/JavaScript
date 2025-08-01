@@ -11,3 +11,7 @@
 // 12/2 = 6 // divide
 
 // 2 * 3 = 6 // multiply
+
+// 10 % 2 = 0 // modulus (remainder) ek bhi nahi bachi
+// 10 % 3 = 1 // modulus (remainder) ek bachi
+// 10 % 4 = 2 // modulus (remainder) do bachi
