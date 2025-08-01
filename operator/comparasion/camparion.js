@@ -29,6 +29,10 @@
 // 12 !== 12 // false, type bhi check karta hai, value bhi check karta hai, dono same hone chahiye
 // 12 !== '12' // true, kyuki type mismatch hai, value bhi check karta hai, dono same hone chahiye
 
+// 12 <= 13 // true, less than or equal to hai, value check karta hai
+
+// 12 >= 13 // false, greater than or equal to nahi hai, value check karta hai
+
 // 12 < 13 // true, less than hai
 
 // 12 > 13 // false, greater than nahi hai
