@@ -18,3 +18,17 @@ let k = ++h;
 console.log(h, k); // Output: 66
 // explanation: h pahle 5 tha, phir h ko increment kiya gaya, ab h 6 hai
 // k ko h ki new value assign hui, yani k = 6
+
+
+let e = 10;
+console.log(e--); // Output: 10
+// explanation: e ki current value 10 hai, phir e ko decrement kiya gaya
+console.log(e); // Output: 10, 9
+
+
+let f = 10;
+let result = f++ + ++f; // pahli baar use kiya tab 10 tha dusri bar 11 hogya fir + kiya = 12
+console.log(result); // Output: 22
+// explanation: f pahle 10 hai, f++ se f ki value 10 hai aur phir f ko increment kiya gaya
+// phir ++f se f ki value 12 ho gayi
+// result = 10 + 12 = 22
