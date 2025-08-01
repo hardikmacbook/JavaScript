@@ -15,3 +15,5 @@
 // 10 % 2 = 0 // modulus (remainder) ek bhi nahi bachi
 // 10 % 3 = 1 // modulus (remainder) ek bachi
 // 10 % 4 = 2 // modulus (remainder) do bachi
+
+// 2 ** 3 = 8 // power (2 ka power 3) 2*2*2 = 8
