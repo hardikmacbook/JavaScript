@@ -6,7 +6,7 @@ let a = 10;
 switch (a){
     case 1:
         console.log("a is 1");
-        break;
+        break; // break statement to exit the switch
     case 2:
         console.log("a is 2");
         break;  
